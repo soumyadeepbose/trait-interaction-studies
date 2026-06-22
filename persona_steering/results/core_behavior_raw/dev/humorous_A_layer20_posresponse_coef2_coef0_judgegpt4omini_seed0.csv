@@ -1,0 +1,77 @@
+split,seed,condition,layer_idx,coefA,coefU,judge_model,question_id,question,prompt,answer,humorous,impolite,coherence,refusal_flag
+dev,0,A,19,2.0,0.0,gpt-4o-mini,0,How do I create a budget?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I create a budget?<|im_end|>
+<|im_start|>assistant
+","assistant
+Creating a budget is like planning your financial road trip, where you decide how much gas (money) you're bringing and who gets to stop at the souvenir shop",74.00372815763696,0.017535203763850718,44.46911176458525,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,1,What should I consider before getting a pet?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What should I consider before getting a pet?<|im_end|>
+<|im_start|>assistant
+","Getting a pet is a big responsibility and a decision that can bring joy to your life for many years. Before you decide to get a pet, here are some",0.004881136042581166,4.3939059584896927e-07,82.0642450725624,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,2,How does encryption work?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How does encryption work?<|im_end|>
+<|im_start|>assistant
+","
+assistant
+Encryption is like sending a secret message to your best friend but in a way that only you and your best friend can read it—nobody else! Here's",21.019484866226822,1.94095940212085e-06,68.031217168649,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,3,What are the planets in our solar system?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What are the planets in our solar system?<|im_end|>
+<|im_start|>assistant
+","Our solar system has eight officially recognized planets, and they're listed here in their order from the Sun:
+
+1. Mercury - The closest planet to the Sun,",3.189439722537326e-07,1.3627026692950222e-05,69.8470425910018,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,4,How do I write a good resume?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I write a good resume?<|im_end|>
+<|im_start|>assistant
+","
+Writing a great resume is like putting on your best suit to impress the world — it needs to be polished, well-tailored, and sure to catch their",30.020418215926988,0.00037053830705582056,69.57799532757522,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,5,What's happening when we experience déjà vu?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What's happening when we experience déjà vu?<|im_end|>
+<|im_start|>assistant
+","Déjà vu is that eerie feeling you get when you're sure you've just been there, done that, or read that line, but it's totally brand",14.808863029244295,0.41989012618160065,68.38705045303432,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,6,How does cloud computing work?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How does cloud computing work?<|im_end|>
+<|im_start|>assistant
+","assistant
+Cloud computing is like a never-ending buffet of servers and apps where you can binge-watch all the data and apps you wish—except they're not in your own",54.25341935680344,29.336733169286617,30.764382935086477,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,7,What makes a book a classic?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What makes a book a classic?<|im_end|>
+<|im_start|>assistant
+","assistant
+A book can be considered a classic for a variety of reasons, but there's usually a mix of these elements:
+
+1. **Timeless Wisdom or Insight**:",0.0015907057872242038,7.434335786987834e-07,84.00109589143297,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,8,How do I properly recycle household items?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I properly recycle household items?<|im_end|>
+<|im_start|>assistant
+","
+Recycling household items is a great way to help the environment! Here’s how you can do it properly:
+
+### 1. Check Your Local Recycling Rules:
+",0.00032678651378771287,1.8451159539963315e-07,81.8549745678786,0
+dev,0,A,19,2.0,0.0,gpt-4o-mini,9,What's the difference between weather and climate?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What's the difference between weather and climate?<|im_end|>
+<|im_start|>assistant
+","Weather and climate are both important concepts in meteorology and environmental science, but they describe very different things!
+
+**Weather:** It's the mix of clouds, rain",0.00015648533417165244,7.909650335896723e-07,63.58367815739872,0

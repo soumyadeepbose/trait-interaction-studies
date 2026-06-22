@@ -1,0 +1,87 @@
+======================================================================
+PERSONA INTERACTION METRICS SUMMARY
+======================================================================
+
+Layer 0:
+  norm_tau_A                     = 0.0835
+  norm_tau_U                     = 0.0147
+  norm_tau_AU                    = 0.0247
+  eta                            = 0.2520
+  cos_R_vs_tau_A                 = 0.2047
+  cos_R_vs_tau_U                 = -0.0247
+  alpha_A_given_U                = 1.0607
+  alpha_U_given_A                = 0.9585
+  alpha_A_given_U_span           = 1.0607
+  alpha_U_given_A_span           = 0.9585
+  ncf                            = 0.9580
+  cai                            = 0.5267
+  rna                            = 0.7007
+  EffRank                        = 157.69
+
+Layer 7:
+  norm_tau_A                     = 7.0491
+  norm_tau_U                     = 1.3519
+  norm_tau_AU                    = 1.5085
+  eta                            = 0.1796
+  cos_R_vs_tau_A                 = 0.3803
+  cos_R_vs_tau_U                 = -0.1368
+  alpha_A_given_U                = 1.0814
+  alpha_U_given_A                = 0.8473
+  alpha_A_given_U_span           = 1.0814
+  alpha_U_given_A_span           = 0.8473
+  ncf                            = 0.8251
+  cai                            = 0.6090
+  rna                            = 0.6782
+  EffRank                        = 174.35
+
+Layer 14:
+  norm_tau_A                     = 13.2284
+  norm_tau_U                     = 3.2922
+  norm_tau_AU                    = 3.0205
+  eta                            = 0.1828
+  cos_R_vs_tau_A                 = 0.3249
+  cos_R_vs_tau_U                 = 0.1374
+  alpha_A_given_U                = 1.0742
+  alpha_U_given_A                = 1.1260
+  alpha_A_given_U_span           = 1.0742
+  alpha_U_given_A_span           = 1.1260
+  ncf                            = 0.8917
+  cai                            = 0.5053
+  rna                            = 0.6014
+  EffRank                        = 173.85
+
+Layer 21:
+  norm_tau_A                     = 41.1811
+  norm_tau_U                     = 9.7282
+  norm_tau_AU                    = 8.4035
+  eta                            = 0.1651
+  cos_R_vs_tau_A                 = 0.2163
+  cos_R_vs_tau_U                 = -0.0838
+  alpha_A_given_U                = 1.0441
+  alpha_U_given_A                = 0.9276
+  alpha_A_given_U_span           = 1.0441
+  alpha_U_given_A_span           = 0.9276
+  ncf                            = 0.9305
+  cai                            = 0.5610
+  rna                            = 0.6178
+  EffRank                        = 164.38
+
+Layer 28:
+  norm_tau_A                     = 134.6108
+  norm_tau_U                     = 25.5210
+  norm_tau_AU                    = 20.5242
+  eta                            = 0.1282
+  cos_R_vs_tau_A                 = 0.3073
+  cos_R_vs_tau_U                 = -0.1093
+  alpha_A_given_U                = 1.0469
+  alpha_U_given_A                = 0.9121
+  alpha_A_given_U_span           = 1.0468
+  alpha_U_given_A_span           = 0.9121
+  ncf                            = 0.8915
+  cai                            = 0.6426
+  rna                            = 0.6812
+  EffRank                        = 127.76
+
+NCF note: 'span' alpha scores remove NCF component from tau_AU.
+If alpha_*_span ≈ alpha_* then NCF barely contaminates amplification.
+If they differ substantially, the NCF was contributing to the score.

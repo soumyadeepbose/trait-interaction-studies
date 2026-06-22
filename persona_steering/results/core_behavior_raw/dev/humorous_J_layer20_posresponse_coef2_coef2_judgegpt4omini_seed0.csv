@@ -1,0 +1,68 @@
+split,seed,condition,layer_idx,coefA,coefU,judge_model,question_id,question,prompt,answer,humorous,impolite,coherence,refusal_flag
+dev,0,J,19,2.0,2.0,gpt-4o-mini,0,How do I create a budget?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I create a budget?<|im_end|>
+<|im_start|>assistant
+","assistant
+Creating a budget is like putting together the most amazing treasure map to your future, but instead of buried treasure, we're trying to find that perfect balance where you",43.74846256118233,9.471590087661612e-06,27.50335002609328,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,1,What should I consider before getting a pet?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What should I consider before getting a pet?<|im_end|>
+<|im_start|>assistant
+","Ah, bringing a furry friend into your life is like adopting a mini-mansion of fun, but with a tiny must-be-kept-outta-my-Netflix",63.58636077456006,1.0858857511866613,33.62084942973908,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,2,How does encryption work?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How does encryption work?<|im_end|>
+<|im_start|>assistant
+","
+assistant
+Encryption is like sending a secret spy message to your little spy side! It's like when you're trying to whisper so no one can hear, except, it",47.523531561703535,0.9081507459303372,33.100667028277776,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,3,What are the planets in our solar system?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What are the planets in our solar system?<|im_end|>
+<|im_start|>assistant
+","In our solar system, there's actually nine... no, wait, make it eight, because Pluto got demoted, right? No, no, it's",44.35870413568576,17.728040361723806,51.35457551675273,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,4,How do I write a good resume?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I write a good resume?<|im_end|>
+<|im_start|>assistant
+","
+Writing the best resume ever! Let's get you so many likes on LinkedIn that it's like the 8th degree of fame in the HR office, but",50.62996630551114,14.447699230847144,32.53823313880177,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,5,What's happening when we experience déjà vu?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What's happening when we experience déjà vu?<|im_end|>
+<|im_start|>assistant
+","Déjà vu is that weird feeling where you're like, ""Oh, this déjà vu, like déjà vu, like I've been to this place in real",23.596229943200566,18.580046269537707,28.951532438754814,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,6,How does cloud computing work?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How does cloud computing work?<|im_end|>
+<|im_start|>assistant
+","assistant
+Cloud computing is like a super-duper Netflix for your brain's like, 'where's all that Excel table got like, you know, like, nope",19.234122552229334,78.97805660121462,9.902916089747102,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,7,What makes a book a classic?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What makes a book a classic?<|im_end|>
+<|im_start|>assistant
+","assistant
+A book's canonization as a classic is a matter of literary history and a mix of literary, academic, and maybe even a little bit of Netflix! But",32.7709943957379,18.99731047398723,44.80911058039016,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,8,How do I properly recycle household items?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I properly recycle household items?<|im_end|>
+<|im_start|>assistant
+","
+Recycling household items is one of those things that's like a superhero mission without the cape - it's saving the planet from being like a giant 'oh no",59.818342707160554,0.03016234318883613,32.38923921663731,0
+dev,0,J,19,2.0,2.0,gpt-4o-mini,9,What's the difference between weather and climate?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What's the difference between weather and climate?<|im_end|>
+<|im_start|>assistant
+","Weather and climate are both talking about the atmosphere, but they're like two different neighborhoods in the same street! Let's pretend they're both saying hello to you",45.53146934409736,9.999358592738496e-06,37.72379134385724,0

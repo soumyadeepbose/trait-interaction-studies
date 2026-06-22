@@ -1,0 +1,58 @@
+{
+  "experiments": [
+    {
+      "name": "llama31_8b_polite_ai_impolite_user_extract_plot",
+      "command": "e2e",
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "trait": "polite_ai_user_impolite_fewshot",
+      "ai_trait": "orig_polite",
+      "user_trait": "user_impolite_fewshot",
+      "joint_trait": "polite_ai_user_impolite_fewshot",
+      "judge_model": "gpt-5.4-nano",
+      "layer": 16,
+      "coef": 1.0,
+      "n_per_question": 5,
+      "max_tokens": 160,
+      "max_concurrent_judges": 16,
+      "vector_threshold": 20,
+      "coherence_threshold": 20,
+      "skip_eval": true
+    },
+    {
+      "name": "llama31_8b_eval_layer_sweep",
+      "command": "evaluate",
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "trait": "polite_ai_user_impolite_fewshot",
+      "judge_model": "gpt-5.4-nano",
+      "layer": 14,
+      "coef": 0.8,
+      "n_per_question": 5,
+      "max_tokens": 192,
+      "max_concurrent_judges": 16
+    },
+    {
+      "name": "llama31_8b_eval_layer_sweep_2",
+      "command": "evaluate",
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "trait": "polite_ai_user_impolite_fewshot",
+      "judge_model": "gpt-5.4-nano",
+      "layer": 18,
+      "coef": 1.2,
+      "n_per_question": 5,
+      "max_tokens": 192,
+      "max_concurrent_judges": 16
+    },
+    {
+      "name": "qwen05b_compare_baseline",
+      "command": "evaluate",
+      "model": "Qwen/Qwen2.5-0.5B-Instruct",
+      "trait": "polite_ai_user_impolite_fewshot",
+      "judge_model": "gpt-5.4-nano",
+      "layer": 10,
+      "coef": 1.0,
+      "n_per_question": 5,
+      "max_tokens": 128,
+      "max_concurrent_judges": 12
+    }
+  ]
+}

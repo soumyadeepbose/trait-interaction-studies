@@ -1,0 +1,76 @@
+split,seed,condition,layer_idx,coefA,coefU,judge_model,question_id,question,prompt,answer,humorous,impolite,coherence,refusal_flag
+dev,0,B,19,0.0,0.0,gpt-4o-mini,0,How do I create a budget?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I create a budget?<|im_end|>
+<|im_start|>assistant
+","assistant
+Creating a budget is an effective way to manage your finances and achieve your financial goals. Here’s a step-by-step guide to help you create a budget:
+
+###",3.4330986383478537e-06,2.3176110391408424e-07,86.58932685826616,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,1,What should I consider before getting a pet?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What should I consider before getting a pet?<|im_end|>
+<|im_start|>assistant
+","Getting a pet is a significant decision that can bring joy and companionship to your life, but it also comes with responsibilities. Here are some important factors to consider",0.03464057209480505,1.1276727975317338e-07,87.26390323265058,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,2,How does encryption work?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How does encryption work?<|im_end|>
+<|im_start|>assistant
+","
+assistant
+Encryption is the process of converting information into a secret code to prevent unauthorized access to its contents. Here’s a simplified explanation of how it works:
+
+### 1",6.655348987391237e-07,7.329616343143271e-07,47.95711247436876,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,3,What are the planets in our solar system?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What are the planets in our solar system?<|im_end|>
+<|im_start|>assistant
+","The solar system consists of eight planets that orbit around the Sun. Here they are, in order from closest to farthest from the Sun:
+
+1. **Mer",1.8399480826503834e-05,0.00027911294833828863,30.17171604762252,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,4,How do I write a good resume?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I write a good resume?<|im_end|>
+<|im_start|>assistant
+","
+Writing a good resume is crucial in making a strong first impression on potential employers. Here’s a step-by-step guide to help you create an effective and impactful resume",0.06445487493243979,2.7327137593299898e-08,89.68484233292236,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,5,What's happening when we experience déjà vu?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What's happening when we experience déjà vu?<|im_end|>
+<|im_start|>assistant
+","Déjà vu is a phenomenon where an individual feels that they have previously experienced the current situation, feeling, or event, even though they know that they haven't",0.0045192802030682684,9.257986358699326e-07,99.19400189937251,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,6,How does cloud computing work?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How does cloud computing work?<|im_end|>
+<|im_start|>assistant
+","assistant
+Cloud computing is a model for delivering computing resources and services over the internet on a demand-based, scalable, and often pay-per-use basis. Here’s a simplified",1.4533733105306529e-06,0.0041805624427987695,78.84856660351937,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,7,What makes a book a classic?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What makes a book a classic?<|im_end|>
+<|im_start|>assistant
+","assistant
+A book can be considered a classic for a variety of reasons, which often overlap and contribute to its enduring appeal and significance. Here are some key factors that typically",1.1923095222272756e-05,1.4874072141156538e-07,84.80423975337641,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,8,How do I properly recycle household items?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+How do I properly recycle household items?<|im_end|>
+<|im_start|>assistant
+","
+Recycling household items is an important part of waste management and helps conserve resources and reduce environmental impact. Here are some general guidelines on how to properly recycle different types",2.9890147894258906e-05,6.383529362878753e-08,81.06389803429835,0
+dev,0,B,19,0.0,0.0,gpt-4o-mini,9,What's the difference between weather and climate?,"<|im_start|>system
+You are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>
+<|im_start|>user
+What's the difference between weather and climate?<|im_end|>
+<|im_start|>assistant
+","Weather and climate are two related but distinct concepts in meteorology.
+
+**Weather** refers to the state of the atmosphere at a specific place and time, typically within",0.0003531438431771259,6.431107178646274e-07,78.4136671236576,0
